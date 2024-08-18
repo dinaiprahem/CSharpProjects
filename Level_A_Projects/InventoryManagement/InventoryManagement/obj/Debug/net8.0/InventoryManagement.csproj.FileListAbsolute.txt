@@ -1,0 +1,14 @@
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.AssemblyInfoInputs.cache
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.AssemblyInfo.cs
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.csproj.CoreCompileInputs.cache
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.exe
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.deps.json
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.runtimeconfig.json
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.dll
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\bin\Debug\net8.0\InventoryManagement.pdb
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.dll
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\refint\InventoryManagement.dll
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.pdb
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\InventoryManagement.genruntimeconfig.cache
+E:\BackEndCourse\c#\CSharpProjects\Level_A_Projects\InventoryManagement\InventoryManagement\obj\Debug\net8.0\ref\InventoryManagement.dll

@@ -1,0 +1,14 @@
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\bin\Debug\net8.0\QuizGameProject.exe
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\bin\Debug\net8.0\QuizGameProject.deps.json
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\bin\Debug\net8.0\QuizGameProject.runtimeconfig.json
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\bin\Debug\net8.0\QuizGameProject.dll
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\bin\Debug\net8.0\QuizGameProject.pdb
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.AssemblyInfoInputs.cache
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.AssemblyInfo.cs
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.csproj.CoreCompileInputs.cache
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.dll
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\refint\QuizGameProject.dll
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.pdb
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\QuizGameProject.genruntimeconfig.cache
+E:\BackEndCourse\c#\QuizGameProject\QuizGameProject\obj\Debug\net8.0\ref\QuizGameProject.dll
