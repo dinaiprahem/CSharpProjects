@@ -39,7 +39,7 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 **Features**:
 - Add new items
 - Update item details
-- Remove items
+- view all items
 - exit the system
 
 **Technologies**: C#
