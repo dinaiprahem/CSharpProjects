@@ -5,7 +5,7 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 
 ### Level A Exercises - Basics
 
-#### Task Tracker
+#### [Task Tracker](./Level_A_Projects/TaskTracker/)
 
 **Description**: A simple console application for managing and tracking tasks.
 
@@ -20,8 +20,7 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 
 **Status**: Completed
 
-#### Quiz Game
-
+#### [Quiz Game](./Level_A_Projects/QuizGame/)
 **Description**: A simple console-based quiz game where the player answers multiple-choice questions.
 
 **Features**:
@@ -35,8 +34,9 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 
 ## Project Structure
 
-- **Level A Exercises - Basics**: Contains beginner-level exercises and projects.
-- **Task Tracker**: The Task Tracker project with its source code and related files.
-- **Quiz Game**: The Quiz Game project with its source code and related files.
+- [**Level A Exercises - Basics**](./Level_A_Projects/): Contains beginner-level exercises and projects.
+- [**Task Tracker**](./Level_A_Projects/TaskTracker/): The Task Tracker project with its source code and related files.
+- [**Quiz Game**](./Level_A_Projects/QuizGame/): The Quiz Game project with its source code and related files.
+
 
 Feel free to explore the code, provide feedback, or contribute!
