@@ -32,10 +32,25 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 
 **Status**: Completed
 
+#### [Inventory Management System](./Level_A_Projects/InventoryManagement/)
+
+**Description**: A simple application to manage inventory items.
+
+**Features**:
+- Add new items
+- Update item details
+- Remove items
+- exit the system
+
+**Technologies**: C#
+
+**Status**: Completed
+
 ## Project Structure
 
 - [**Level A Exercises - Basics**](./Level_A_Projects/): Contains beginner-level exercises and projects.
 - [**Task Tracker**](./Level_A_Projects/TaskTracker/): The Task Tracker project with its source code and related files.
+- [**Inventory Management System**](./Level_A_Projects/InventoryManagement/): The Inventory Management System project with its source code and related files.
 - [**Quiz Game**](./Level_A_Projects/QuizGame/): The Quiz Game project with its source code and related files.
 
 
