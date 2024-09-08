@@ -24,7 +24,7 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 **Description**: A simple console-based quiz game where the player answers multiple-choice questions.
 
 **Features**:
-- multiple questions on general knowledge
+- Multiple questions on general knowledge
 - Provides feedback on correct and incorrect answers
 - Calculates and displays the final score
 
@@ -39,8 +39,26 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 **Features**:
 - Add new items
 - Update item details
-- view all items
-- exit the system
+- View all items
+- Exit the system
+
+**Technologies**: C#
+
+**Status**: Completed
+
+### Level B Exercises - Intermediate
+
+#### [Shopping System](./Level_B_Projects/ShoppingSystem/)
+**Description**: A console-based shopping system where users can add, remove, and view products in a cart, as well as undo actions and checkout.
+
+**Features**:
+- View available products with prices
+- Add items to the shopping cart
+- Remove items from the cart
+- View items in the cart
+- Undo the last action 
+- Checkout and clear the cart
+- Exit the system
 
 **Technologies**: C#
 
@@ -52,6 +70,7 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 - [**Task Tracker**](./Level_A_Projects/TaskTracker/): The Task Tracker project with its source code and related files.
 - [**Inventory Management System**](./Level_A_Projects/InventoryManagement/): The Inventory Management System project with its source code and related files.
 - [**Quiz Game**](./Level_A_Projects/QuizGame/): The Quiz Game project with its source code and related files.
-
+- [**Level B Exercises - Intermediate**](./Level_B_Projects/): Contains intermediate-level exercises and projects.
+- [**Shopping System**](./Level_B_Projects/ShoppingSystem/): The Shopping System project with its source code and related files.
 
 Feel free to explore the code, provide feedback, or contribute!
