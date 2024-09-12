@@ -1,6 +1,0 @@
-Add item to the cart
-view cart
-Remove item from cart
-checkout
-Undo last action
-exit
