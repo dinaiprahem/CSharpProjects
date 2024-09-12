@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\passwordManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7298702-8996-42CD-83B7-AE6655D3A69D}|passwordManager\\passwordManager.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\passwordmanager\\passwordmanager\\encryptionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7298702-8996-42CD-83B7-AE6655D3A69D}|passwordManager\\passwordManager.csproj|solutionrelative:passwordmanager\\encryptionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7298702-8996-42CD-83B7-AE6655D3A69D}|passwordManager\\passwordManager.csproj|e:\\backendcourse\\c#\\csarpprojects\\level_b_projects\\passwordmanager\\passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7298702-8996-42CD-83B7-AE6655D3A69D}|passwordManager\\passwordManager.csproj|solutionrelative:passwordmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptionUtilities.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\passwordManager\\passwordManager\\EncryptionUtilities.cs",
+              "RelativeDocumentMoniker": "passwordManager\\EncryptionUtilities.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\passwordManager\\passwordManager\\EncryptionUtilities.cs",
+              "RelativeToolTip": "passwordManager\\EncryptionUtilities.cs",
+              "ViewState": "AQIAAAsAAABAAAAAAAAQwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:35:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\passwordManager\\passwordManager\\Program.cs",
+              "RelativeDocumentMoniker": "passwordManager\\Program.cs",
+              "ToolTip": "E:\\BackEndCourse\\c#\\CSarpProjects\\Level_B_Projects\\passwordManager\\passwordManager\\Program.cs",
+              "RelativeToolTip": "passwordManager\\Program.cs",
+              "ViewState": "AQIAACsAAAAAamZmZmYRwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:57:51.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
