@@ -87,6 +87,6 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 - [**Quiz Game**](./Level_A_Projects/QuizGame/): The Quiz Game project with its source code and related files.
 - [**Level B Exercises - Intermediate**](./Level_B_Projects/): Contains intermediate-level exercises and projects.
 - [**Shopping System**](./Level_B_Projects/ShoppingSystem/): The Shopping System project with its source code and related files.
-- [**Password Manager**](./Level_B_Projects/passwordManager/): The Password Manager project with its source code and related files.
+- [**Password Manager**](passwordManager): The Password Manager project with its source code and related files.
 
 Feel free to explore the code, provide feedback, or contribute!
