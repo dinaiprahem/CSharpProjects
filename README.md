@@ -64,6 +64,21 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 
 **Status**: Completed
 
+#### [Password Manager](passwordManager)
+
+**Description**: A console application for managing website passwords with encryption and decryption functionality.
+
+**Features**:
+- List all stored passwords
+- Add or update a password for a website
+- Retrieve a stored password
+- Delete a stored password
+- Passwords are encrypted before saving
+
+**Technologies**: C#
+
+**Status**: Completed
+
 ## Project Structure
 
 - [**Level A Exercises - Basics**](./Level_A_Projects/): Contains beginner-level exercises and projects.
@@ -72,5 +87,6 @@ A collection of small C# projects, each demonstrating different aspects of C# pr
 - [**Quiz Game**](./Level_A_Projects/QuizGame/): The Quiz Game project with its source code and related files.
 - [**Level B Exercises - Intermediate**](./Level_B_Projects/): Contains intermediate-level exercises and projects.
 - [**Shopping System**](./Level_B_Projects/ShoppingSystem/): The Shopping System project with its source code and related files.
+- [**Password Manager**](./Level_B_Projects/passwordManager/): The Password Manager project with its source code and related files.
 
 Feel free to explore the code, provide feedback, or contribute!
